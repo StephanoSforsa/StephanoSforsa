@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bem-vindo ao meu GitHub! 👋
 
-<!--
-**StephanoSforsa/StephanoSforsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Stephano, e sou um estudante do último ano do curso de graduação em Química Ambiental pela UNESP. Estou fascinado por Data Science e análise de dados, buscando constantemente aprimorar minhas habilidades e conhecimentos nessa área.
 
-Here are some ideas to get you started:
+## O Que Eu Faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Possuo conhecimento em Python, com experiência em bibliotecas como pandas e numpy. Utilizo essas habilidades para coletar, limpar e analisar dados, transformando números em insights valiosos.
+
+- 📊 Além disso, estou aprofundando meu conhecimento em estatística, aprendizado de máquina e modelagem de dados. Tenho interesse em aplicar algoritmos de Machine Learning para resolver problemas complexos e criar modelos preditivos.
+
+## Meus Objetivos
+
+- 🚀 Meu objetivo é combinar minha formação em Química com minhas habilidades em Data Science para contribuir para soluções efetivas e analíticas para desafios diversos.
+
+- 📚 Estou constantemente aprendendo e aprimorando minhas habilidades. Este repositório é um espaço onde compartilho meus projetos, estudos e experiências à medida que embarco nesta jornada emocionante em direção ao mundo da Ciência de Dados.
+
+## Entre em Contato
+
+- 💬 Estou sempre aberto a conexões e colaborações. Se você deseja trocar ideias, sinta-se à vontade para entrar em contato comigo.
+
+- 📧 sforsa.silva@gmail.com
